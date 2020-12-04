@@ -1,0 +1,10 @@
+c:\users\hlchi\documents\visual studio 2010\Projects\Building\Building\BuildingContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\大學\大三下\VAEC\week8\07.LectureCode\Building\Building\BuildingContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\大學\大三下\VAEC\project2\Building\Building\BuildingContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\asus\Desktop\Building\Building\BuildingContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\大學\大三下\VAEC\project2\project2\Building\Building\BuildingContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\project2\Building\Building\BuildingContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\asus\Dropbox\vaec\project2\Building\Building\BuildingContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\asus\Documents\視覺化\final\project2\Building\Building\BuildingContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\final_fire\Building\Building\BuildingContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\大學\大三下\VAEC\finalproject\final_fire\Building\Building\BuildingContent\obj\x86\Debug\ResolveAssemblyReference.cache
